@@ -1,0 +1,9 @@
+# module files
+/node_modules
+
+# keys
+keys/dev.js
+
+# misc
+package-lock.json
+debug.log*
